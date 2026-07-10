@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 118" role="img" aria-label="otto · field notes · running systems · open by default">
+  <style>
+    text { font-family: ui-monospace, 'SF Mono', 'Cascadia Mono', Menlo, Consolas, 'Liberation Mono', monospace; }
+    .word { font-size: 54px; font-weight: 500; fill: #e1ddd8; letter-spacing: -1px; }
+    .label { font-size: 12px; fill: #8f8b86; letter-spacing: 3.5px; }
+  </style>
+  <text x="0" y="58" class="word">otto</text>
+  <rect x="136" y="18" width="24" height="46" fill="#14b8a6">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.55;0.55;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="2" y="100" class="label">field notes · running systems · open by default</text>
+</svg>
